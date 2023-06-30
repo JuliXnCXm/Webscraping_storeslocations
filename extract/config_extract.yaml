@@ -1,0 +1,10 @@
+config:
+  configurationObject: {
+            "supported-headers": ["OPERATION_HEADER"],
+        }
+  URLRequest: ""
+  size_items: 100
+  section: 'c6fcf990-a970-4829-bf29-e39307d07e1c'
+  cursors:
+    cursor_0  : ''
+    cursor_1  : ''
